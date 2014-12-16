@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Phone app resources that may need to be customized
+     for different hardware or product builds. -->
+<resources>
+    <!-- Show enabled lte option for lte device -->
+    <bool name="config_enabled_lte" translatable="false">true</bool>
+</resources>
